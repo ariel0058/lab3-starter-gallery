@@ -8,6 +8,8 @@ Changelog format: [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdo
 
 Release Date: Jan 25, 2017
 
+add GPG
+
 ## New Components
 
 -   controllers
