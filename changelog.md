@@ -13,25 +13,33 @@ configuring GPG again
 
 ## New Components
 
--   controllers
+-   folders  
+    - application (Yao Yao)
+    - public (Yao Yao)
+    - system (Yao Yao)
 
-    -   serbian (AB)
+-   views
+    -   welcome.php (Yao Yao)
+    -   about.php (Yao Yao)
+    -   gallery.php (Yao Yao)
+    -   _cell.php (Yao Yao)
+
+- controllers
+    -   About.php (Yao Yao)
+    -   Gallery.php (Yao Yao)
     
 ## Updated Components
 
 -   controllers
-
-    -   german (CD)
-    -   hindi (CD)
+    -   Welcome.php (Yao Yao)
+    -   MY_Controller (Jing Yang)
 
 -   models
-
-    -   italian (AB)
+    -   images.php (Yao Yao)
 
 -   views
+    -   template.php (Jing Yang)
 
-    -   slovenian (AB)
-    -   swedish
 
 
 
